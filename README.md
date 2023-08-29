@@ -22,7 +22,7 @@
 </div>
 
 <h4>🌵포트폴리오</h4>
- ◾ Vue를 적용시킨 사이트 <a href="링크"><img src="위에있는뱃지코드"/></a>
+ ◾ Vue를 적용시킨 사이트 <a href="https://kum1416.github.io/FED_PJ_WBS_SOMI/02.%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%9B%B9&%EC%95%B1%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/03.%EA%B5%AC%ED%98%84%EC%86%8C%EC%8A%A4/index.html">SAMWHA PAPER</a>
 </br>
  ◾ React를 적용시킨 사이트 <a href="링크"><img src="위에있는뱃지코드"/></a>
 
