@@ -16,7 +16,7 @@
 
 <h4>🛠사용한 툴</h4>
 <div>
-	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=VS Code&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 
