@@ -1,6 +1,6 @@
-<div align=center>
+
 ### 🤗안녕하세요🤗
-	
+<div align=center>	
 프론트엔드 개발 공부중인 최소미입니다.
 </div>
 <hr>
